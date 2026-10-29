@@ -1,0 +1,7 @@
+# Test dependencies 
+playwright==1.64.1
+pytest==8.4.2
+pytest-playwright==0.7.1
+pytest-html==4.1.1
+requests==2.32.5
+Flask==3.1.2
